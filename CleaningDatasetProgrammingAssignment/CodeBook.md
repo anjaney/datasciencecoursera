@@ -1,0 +1,72 @@
+##  Code Book
+This codebook describes the variables, the data, and the transformations
+
+## Variables:
+#Features - Total 60 features extracted out of 560 available features. Target 1 and Target 2 are identifiers
+Target1
+Target2
+BodyAccMeanX
+BodyAccMeanY
+BodyAccMeanZ
+BodyAccStdX
+BodyAccStdY
+BodyAccStdZ
+GravityAccMeanX
+GravityAccMeanY
+GravityAccMeanZ
+GravityAccStdX
+GravityAccStdY
+GravityAccStdZ
+BodyAccJerkMeanX
+BodyAccJerkMeanY
+BodyAccJerkMeanZ
+BodyAccJerkStdX
+BodyAccJerkStdY
+BodyAccJerkStdZ
+BodyGyroMeanX
+BodyGyroMeanY
+BodyGyroMeanZ
+BodyGyroStdX
+BodyGyroStdY
+BodyGyroStdZ
+BodyGyroJerkMeanX
+BodyGyroJerkMeanY
+BodyGyroJerkMeanZ
+BodyGyroJerkStdX
+BodyGyroJerkStdY
+BodyGyroJerkStdZ
+BodyAccMagMean
+BodyAccMagStd
+GravityAccMagMean
+GravityAccMagStd
+BodyAccJerkMagMean
+BodyAccJerkMagStd
+BodyGyroMagMean
+BodyGyroMagStd
+BodyGyroJerkMagMean
+BodyGyroJerkMagStd
+BodyAccMeanFreqX
+BodyAccMeanFreqY
+BodyAccMeanFreqZ
+BodyAccJerkMeanFreqX
+BodyAccJerkMeanFreqY
+BodyAccJerkMeanFreqZ
+BodyGyroMeanFreqX
+BodyGyroMeanFreqY
+BodyGyroMeanFreqZ
+BodyAccMagMeanFreq
+BodyBodyAccJerkMagMean
+BodyBodyAccJerkMagStd
+BodyBodyAccJerkMagMeanFreq
+BodyBodyGyroMagMean
+BodyBodyGyroMagStd
+BodyBodyGyroMagMeanFreq
+BodyBodyGyroJerkMagMean
+BodyBodyGyroJerkMagStd
+BodyBodyGyroJerkMagMeanFreq
+
+##Identifier description:
+Target1 - Subject id for whom the measurement data is collected
+Target2 - Activity performed by the subject 
+
+
